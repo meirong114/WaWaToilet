@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pay_title"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#212121"
+        android:gravity="center"
+        android:padding="16dp" />
+
+    <ImageView
+        android:id="@+id/alipayImage"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_margin="24dp"
+        android:src="@drawable/alipay"
+        android:scaleType="fitCenter"
+        android:contentDescription="@string/pay_title" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pay_hint"
+        android:textSize="14sp"
+        android:textColor="#666666"
+        android:gravity="center"
+        android:paddingStart="24dp"
+        android:paddingEnd="24dp" />
+
+    <Button
+        android:id="@+id/backBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/agreement_back"
+        android:layout_margin="16dp" />
+</LinearLayout>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">哇哇廁所</string>
+    <string name="direction_left">牌子方向：左</string>
+    <string name="direction_right">牌子方向：右</string>
+    <string name="capture">影相</string>
+    <string name="camera_permission_required">需要用相機權限至可以用</string>
+    <string name="saved_to">已經儲存咗喺相簿</string>
+    <string name="save_failed">儲存唔到</string>
+    <string name="capture_failed">影相失敗</string>
+
+    <string name="legal_entry">設定</string>
+    <string name="agreement_title">許可證與用戶協議</string>
+    <string name="agreement_back">返回</string>
+    <string name="agreement_hide_7d">七日內唔再提示</string>
+    <string name="agreement_hide_forever">永遠唔再提示</string>
+
+    <string name="settings_title">設定</string>
+    <string name="settings_quality_label">相片大細與清晰度</string>
+    <string name="share_btn">分享</string>
+    <string name="wechat_not_found">搵唔到微信，改用系統分享</string>
+
+    <string name="gallery_title">歷史相片</string>
+    <string name="gallery_empty">仲未有任何相，先去影一張啦</string>
+    <string name="gallery_share_selected">分享揀咗嘅相</string>
+    <string name="gallery_none_selected">請先剔選相片</string>
+    <string name="settings_quality_high">清晰（約 1MB）</string>
+    <string name="settings_quality_medium">中等（約 500KB）</string>
+    <string name="settings_quality_low">慳位（約 200KB）</string>
+    <string name="settings_about">關於本應用</string>
+
+    <string name="settings_evaluation">I\'m still on Evaluation edition</string>
+    <string name="settings_donate">Donate Now</string>
+    <string name="extend_done">評估期已經延長 7 日</string>
+
+    <string name="eval_expired_title">評估期已經到期</string>
+    <string name="eval_expired_message">本應用係評估版軟件，7 日評估期已經到期。如果你覺得好用，歡迎贊助支持作者（自願，唔強制）。唔贊助都可以繼續評估使用。</string>
+    <string name="eval_expired_sponsor">我想贊助</string>
+    <string name="eval_expired_continue">繼續評估</string>
+    <string name="pay_title">支付寶收款碼</string>
+    <string name="pay_hint">掃碼支持作者，收款碼已經自動儲存喺相簿</string>
+    <string name="pay_saved">收款碼已經儲存喺相簿</string>
+    <string name="pay_save_failed">收款碼儲存唔到</string>
+
+    <string name="about_title">關於本應用</string>
+    <string name="about_app_name">哇哇廁所</string>
+    <string name="about_version">版本 1.0</string>
+    <string name="about_desc">AR 相機廁所牌疊加應用，開源免費。</string>
+    <string name="about_footer">本項目基於 PolyForm Noncommercial License 1.0.0 許可證發布。使用本應用創作嘅內容，法律責任由用戶自行承擔。</string>
+    <string name="about_license_link">許可證</string>
+    <string name="about_github_link">GitHub</string>
+    <string name="agreement_content">\n多謝你使用「哇哇廁所」（以下簡稱「本應用」）。\n\n一、開源聲明\n本項目係一個開源項目，你可以自由查閱同使用佢嘅源代碼，但必須遵守本協議下方嘅許可證條款。\n\n二、內容責任\n本應用只提供 AR 相機圖層疊加功能。你（用戶）使用本應用所創作、編輯、發布或傳播嘅一切照片、圖片及相關內容，都係你個人嘅行為，你擁有你嘅內容。你應該對上述內容及其使用方式承擔全部法律責任。本項目嘅開發者同貢獻者，唔會為你因使用本應用或所創作內容而產生嘅任何直接或間接損害、糾紛或法律後果負責。\n\n三、許可證\n本項目基於 PolyForm Noncommercial License 1.0.0（寬鬆型）許可證發布。\n該許可證容許你在非商業目的下自由使用、複製、修改同分發本軟件；如果想將本軟件用喺任何商業目的，必須另外獲得版權方嘅書面授權。\n許可證全文可以查閱：https://polyformproject.org/licenses/noncommercial/1.0.0\n\n四、免責聲明\n本軟件按「現狀」提供，唔包含任何明示或隱含嘅保證。\n\n繼續使用本應用即表示你已經閱讀同同意接受本協議全部條款。\n\n如果你不同意本協議，請即刻退出本軟件。\n\n\n權限說明：\n\n相機權限\n用於影相相關功能。</string>
+</resources>

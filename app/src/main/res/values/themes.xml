@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WaWaToilet" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:windowBackground">#000000</item>
+    </style>
+
+    <!-- 许可证/设置/关于等白底页面使用浅色主题,保证控件文字颜色正常 -->
+    <style name="Theme.WaWaToilet.Light" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">#FFFFFF</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+    </style>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera.any" android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.WaWaToilet"
+        android:supportsRtl="true">
+
+        <!-- 许可证页面为启动入口,强制用户同意后方可进入主界面 -->
+        <activity
+            android:name=".LegalActivity"
+            android:exported="true"
+            android:theme="@style/Theme.WaWaToilet.Light"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".SettingsActivity"
+            android:exported="false"
+            android:label="@string/settings_title"
+            android:theme="@style/Theme.WaWaToilet.Light"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".AboutActivity"
+            android:exported="false"
+            android:label="@string/about_title"
+            android:theme="@style/Theme.WaWaToilet.Light"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".PayActivity"
+            android:exported="false"
+            android:label="@string/pay_title"
+            android:theme="@style/Theme.WaWaToilet.Light"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".GalleryActivity"
+            android:exported="false"
+            android:label="@string/gallery_title"
+            android:theme="@style/Theme.WaWaToilet.Light"
+            android:screenOrientation="portrait" />
+    </application>
+</manifest>

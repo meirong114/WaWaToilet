@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp"
+    android:height="100dp"
+    android:viewportWidth="160"
+    android:viewportHeight="100">
+
+    <!-- 牌子底板:蓝色圆角矩形 + 白色边框 -->
+    <path
+        android:fillColor="#1565C0"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:pathData="M12,6 L148,6 A8,8 0 0 1 156,14 L156,86 A8,8 0 0 1 148,94 L12,94 A8,8 0 0 1 4,86 L4,14 A8,8 0 0 1 12,6 Z" />
+
+    <!-- 指向左侧的箭头 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62,44 L40,44 L40,34 L18,50 L40,66 L40,56 L62,56 Z" />
+
+    <!-- 人形图标 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M112,18 m-9,0 a9,9 0 1,0 18,0 a9,9 0 1,0 -18,0 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M103,32 L121,32 L121,58 L116,58 L116,82 L108,82 L108,58 L103,58 Z" />
+
+    <!-- WC 字样(简化为两个圆点装饰) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M132,70 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 Z" />
+</vector>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WaWaToilet</string>
+    <string name="direction_left">Left</string>
+    <string name="direction_right">Right</string>
+    <string name="capture">Capture</string>
+    <string name="camera_permission_required">Need camera permission.</string>
+    <string name="saved_to">Saved for gallery</string>
+    <string name="save_failed">Save failed.</string>
+    <string name="capture_failed">Capture failed.</string>
+
+    <string name="legal_entry">Settings</string>
+    <string name="agreement_title">License and user agreement</string>
+    <string name="agreement_back">Back</string>
+    <string name="agreement_hide_7d">Hide for 7 days</string>
+    <string name="agreement_hide_forever">Hide forever</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_quality_label">Photo Quality</string>
+    <string name="share_btn">Share</string>
+    <string name="wechat_not_found">Not found.</string>
+    <string name="wechat_not_found_suggestion">Please install WeChat first.</string>
+
+    <string name="gallery_title">Gallery</string>
+    <string name="gallery_empty">No photos yet, please take a photo first</string>
+    <string name="gallery_share_selected">Share Selected Photos</string>
+    <string name="gallery_none_selected">Please select photos first</string>
+    <string name="settings_quality_high">HIGH(Less 1MB)</string>
+    <string name="settings_quality_medium">MEDIUM(Less 500KB)</string>
+    <string name="settings_quality_low">LOW(Less 200KB)</string>
+    <string name="settings_about">About</string>
+
+    <string name="settings_evaluation">I\'m still on Evaluation edition</string>
+    <string name="settings_donate">Donate Now</string>
+    <string name="extend_done">Evaluation period extended for 7 days</string>
+
+    <string name="eval_expired_title">Evaluation period expired</string>
+    <string name="eval_expired_message">This app is an evaluation software, 7 days evaluation period expired.</string>
+    <string name="eval_expired_sponsor">Pay Now</string>
+    <string name="eval_expired_continue">Continue Evaluation</string>
+    <string name="pay_title">Alipay QR Code</string>
+    <string name="pay_hint">Scan the QR code to pay the author.</string>
+    <string name="pay_saved">QR code saved to gallery.</string>
+    <string name="pay_save_failed">Save failed</string>
+
+    <string name="about_title">About</string>
+    <string name="about_app_name">WaWaToilet</string>
+    <string name="about_version">1.0</string>
+    <string name="about_desc">AR toilet sign overlay app, free.</string>
+    <string name="about_footer">Based on PolyForm Noncommercial License 1.0.0.</string>
+    <string name="about_license_link">License</string> 
+    <string name="about_github_link">GitHub</string>
+    <string name="agreement_content">\n感谢您使用「哇哇厕所」（以下简称「本应用」）。\n\n一、开源声明\n本项目为开源项目，您可自由查阅与使用其源代码，但须遵守本协议下方的许可证条款。\n\n二、内容责任\n本应用仅提供 AR 相机图层叠加功能。您（用户）使用本应用所创作、编辑、发布或传播的一切照片、图片及相关内容，均属您的个人行为，您对您的内容具有所有权。您应对上述内容及其使用方式承担全部法律责任。本项目的开发者与贡献者不对您因使用本应用或所创作内容而产生的任何直接或间接损害、纠纷或法律后果承担责任。\n\n三、许可证\n本项目基于 PolyForm Noncommercial License 1.0.0（宽松型）许可证发布。\n该许可证允许您在非商业目的下自由使用、复制、修改与分发本软件；如需将本软件用于任何商业目的，须另行获得版权方的书面授权。\n许可证全文可查阅：https://polyformproject.org/licenses/noncommercial/1.0.0\n\n四、免责声明\n本软件按「现状」提供，不含任何明示或默示的担保。\n\n继续使用本应用即表示您已阅读并同意接受本协议全部条款。\n\n若您不同意本协议请即退出本软件。\n\n\n权限说明：\n\n相机权限\n用于拍照相关功能。</string>
+</resources>

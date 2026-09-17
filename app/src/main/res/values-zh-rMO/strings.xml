@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">哇哇厕所</string>
+    <string name="direction_left">牌子方向:左</string>
+    <string name="direction_right">牌子方向:右</string>
+    <string name="capture">拍照</string>
+    <string name="camera_permission_required">需要相机权限才能使用</string>
+    <string name="saved_to">已保存到相册</string>
+    <string name="save_failed">保存失败</string>
+    <string name="capture_failed">拍照失败</string>
+
+    <string name="legal_entry">设置</string>
+    <string name="agreement_title">许可证与用户协议</string>
+    <string name="agreement_back">返回</string>
+    <string name="agreement_hide_7d">七天内不再提示</string>
+    <string name="agreement_hide_forever">永远不再提示</string>
+
+    <string name="settings_title">设置</string>
+    <string name="settings_quality_label">照片大小与清晰度</string>
+    <string name="share_btn">分享</string>
+    <string name="wechat_not_found">未检测到微信,使用系统分享</string>
+
+    <string name="gallery_title">历史照片</string>
+    <string name="gallery_empty">还没有照片,先去拍一张吧</string>
+    <string name="gallery_share_selected">分享所选</string>
+    <string name="gallery_none_selected">请先勾选照片</string>
+    <string name="settings_quality_high">清晰(约 1MB)</string>
+    <string name="settings_quality_medium">中等(约 500KB)</string>
+    <string name="settings_quality_low">节省(约 200KB)</string>
+    <string name="settings_about">关于应用</string>
+
+    <string name="settings_evaluation">I\'m still on Evaluation edition</string>
+    <string name="settings_donate">Donate Now</string>
+    <string name="extend_done">评估时长已延长 7 天</string>
+
+    <string name="eval_expired_title">评估期已到期</string>
+    <string name="eval_expired_message">本应用为评估软件,7 天评估期已到期。如果您觉得好用,欢迎赞助支持作者(自愿,不强制)。不赞助也可以继续评估使用。</string>
+    <string name="eval_expired_sponsor">我要赞助</string>
+    <string name="eval_expired_continue">继续评估</string>
+    <string name="pay_title">支付宝收款码</string>
+    <string name="pay_hint">扫码支持作者,收款码已自动保存到相册</string>
+    <string name="pay_saved">收款码已保存到相册</string>
+    <string name="pay_save_failed">收款码保存失败</string>
+
+    <string name="about_title">关于应用</string>
+    <string name="about_app_name">哇哇厕所</string>
+    <string name="about_version">版本 1.0</string>
+    <string name="about_desc">AR 相机厕所牌子叠加应用,开源免费。</string>
+    <string name="about_footer">本项目基于 PolyForm Noncommercial License 1.0.0 许可证发布。使用本应用创作的内容由用户自行承担法律责任。</string>
+    <string name="about_license_link">许可协议</string>
+    <string name="about_github_link">GitHub</string>
+    <string name="agreement_content">\n感谢您使用「哇哇厕所」（以下简称「本应用」）。\n\n一、开源声明\n本项目为开源项目，您可自由查阅与使用其源代码，但须遵守本协议下方的许可证条款。\n\n二、内容责任\n本应用仅提供 AR 相机图层叠加功能。您（用户）使用本应用所创作、编辑、发布或传播的一切照片、图片及相关内容，均属您的个人行为，您对您的内容具有所有权。您应对上述内容及其使用方式承担全部法律责任。本项目的开发者与贡献者不对您因使用本应用或所创作内容而产生的任何直接或间接损害、纠纷或法律后果承担责任。\n\n三、许可证\n本项目基于 PolyForm Noncommercial License 1.0.0（宽松型）许可证发布。\n该许可证允许您在非商业目的下自由使用、复制、修改与分发本软件；如需将本软件用于任何商业目的，须另行获得版权方的书面授权。\n许可证全文可查阅：https://polyformproject.org/licenses/noncommercial/1.0.0\n\n四、免责声明\n本软件按「现状」提供，不含任何明示或默示的担保。\n\n继续使用本应用即表示您已阅读并同意接受本协议全部条款。\n\n若您不同意本协议请即退出本软件。\n\n\n权限说明：\n\n相机权限\n用于拍照相关功能。</string>
+</resources>

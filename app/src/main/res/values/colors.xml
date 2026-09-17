@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sign_blue">#1565C0</color>
+    <color name="sign_white">#FFFFFF</color>
+    <color name="bar_bg">#99000000</color>
+    <color name="capture_red">#E53935</color>
+</resources>
